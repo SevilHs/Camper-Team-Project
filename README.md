@@ -33,7 +33,7 @@ The key features of Camper include:
 ## Installation
 
 To set up Camper project locally, follow these steps:
-1. Clone the project repository: git clone https://github.com/NarminAlakbarova/React-team-project.git
+1. Clone the project repository: git clone https://github.com/SevilHs/Camper-Team-Project.git
 2. Navigate to the project directory in the terminal and run npm install to install necessary dependencies.
 3. Use npm start command to run the application in development mode.
 
